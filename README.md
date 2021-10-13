@@ -40,7 +40,7 @@ Self-studied coding courses including certificates in HTML, CSS, JavaScript and 
 
 ### Languages and tools
 
-<img src="images/html5.svg" height=35px> <img src="images/css3.svg" height=35px> <img src="images/javascript.svg" height=35px> <img src="images/mongodb.svg" height=35px> <img src="images/node-js.svg" height=35px> <img src="images/react.svg" height=35px>
+<img src="images/html5.svg" height=35px> <img src="images/css3.svg" height=35px> <img src="images/javascript.svg" height=35px> <img src="images/mongodb.svg" height=35px> <img src="images/node-js.svg" height=35px> <img src="images/react.svg" height=35px> <img src="images/typescript.png" height=35px>
 
 
 ### Connect with me 
