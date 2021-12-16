@@ -24,7 +24,7 @@ Accomplished programming skills and project experience in: React JS, Node.js, Ex
 </ul>
 
 <a href="https://www.codeacademy.com"><b>CodeCademy</b></a> - Self-study Web Developer Front-end<br>
-Self-studied coding courses including certificates in HTML, CSS, JavaScript and working experience with Git and GitHub.<br>
+Self-studied coding courses including certificates in HTML, CSS, JavaScript, TypeScript and working experience with Git and GitHub.<br>
 
 <b>Projects:</b> 
 <ul>
