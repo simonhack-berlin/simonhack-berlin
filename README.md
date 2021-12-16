@@ -9,6 +9,14 @@ Passion for programming and discovering new technologies!
 
 I support web development teams to strive for creative excellence to serve a business purpose and have an impact on society.
 
+###  Current job position
+
+<ul>
+        <li>
+<a href="https://www.steffenundbach.de"><b>Steffen und Bach GmbH</b></a> - Full-Stack Web Developer.
+        </li>
+</ul>
+
 ### Education
 
 <ul>
@@ -19,14 +27,6 @@ I support web development teams to strive for creative excellence to serve a bus
 
 <li><a href="https://www.codeacademy.com"><b>CodeCademy</b></a> - Self-study Web Developer Front-end:<br></li><br>
 <ol>Self-studied coding courses including certificates in HTML, CSS, JavaScript, TypeScript and working experience with Git and GitHub.<br></ol>
-</ul>
-
-###  Current job position
-
-<ul>
-        <li>
-<a href="https://www.steffenundbach.de"><b>Steffen und Bach GmbH</b></a> - Full-Stack Web Developer.
-        </li>
 </ul>
 
 ### Languages and tools
