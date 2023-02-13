@@ -23,7 +23,7 @@ I support web development teams to strive for creative excellence to serve a bus
 <li><a href="https://www.ironhack.com"><b>IronHack</b></a> - Full-Stack Web Developer Program (full-time bootcamp):<br></li><br>
 <ol>Collaborated with a team of 30 fellow students in a remote environment with regular communication via Zoom, Slack, and in group projects.<br></ol> <br>
 <ol>Developed project designs and completed individual assignments.<br></ol><br>
-<ol>Accomplished programming skills and project experience in: React JS, Node.js, Express.js, MongoDB, Mongoose, HTML, CSS, SCSS/SASS, JSX, REST API, Javasrcipt.<br><br></ol>
+<ol>Accomplished programming skills and project experience in: React JS, Node.js, Express.js, MongoDB, Mongoose, HTML, CSS, SCSS/SASS, JSX, REST API, Javascript.<br><br></ol>
 
 <li><a href="https://www.codeacademy.com"><b>CodeCademy</b></a> - Self-study Web Developer Front-end:<br></li><br>
 <ol>Self-studied coding courses including certificates in HTML, CSS, JavaScript, TypeScript and working experience with Git and GitHub.<br></ol>
