@@ -1,5 +1,5 @@
 <h1>Hi, I am <strong>Simone</strong> 👋</h1>
-        <h2>full-stack web developer based in Berlin 👨‍💻</h2> 
+<h2>full-stack web developer based in Berlin 👨‍💻</h2> 
 
 ### About me 
 
@@ -13,7 +13,7 @@ I support web development teams to strive for creative excellence to serve a bus
 
 <ul>
         <li>
-<a href="https://www.steffenundbach.de"><b>Steffen und Bach GmbH</b></a> - Full-Stack Web Developer.
+<a href="https://www.alphastrike.io"><b>Alpha Strike Labs GmbH</b></a> - Software Developer.
         </li>
 </ul>
 
